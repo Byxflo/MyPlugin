@@ -1,3 +1,8 @@
 name: mes couilles
-main:
+main: fr.kira.myplugin.Main
 version: 1.0.0.0.0.0.0.0.0.0
+commands:
+  msg:
+    aliases: [mp, m]
+    description: Si t'es trop con pour ne pas savoir ce que c'est, pends toi.
+  r:
